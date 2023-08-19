@@ -1,0 +1,11 @@
+MAE,0.07208168,MSE,0.020143201
+R-squared,0.885107171,data set,chrV.csv
+,,,
+MAE,0.070527681,MSE,0.01825753
+R-squared,0.857988075,data set,tiling.csv
+,,,
+MAE,0.083196173,MSE,0.022684824
+R-squared,0.824950063,data set,nucleosome.csv
+,,,
+MAE,0.067750307,MSE,0.011622952
+R-squared,0.860731468,data set,random.csv
